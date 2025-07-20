@@ -20,7 +20,7 @@ It includes exploratory data analysis, model training, evaluation, and a **Strea
 
 ## 📁 Project Structure
 
-```
+
 
 📦 advertising-sales-prediction
 /
