@@ -111,13 +111,6 @@ Then click **"Predict"** to get the estimated sales.
 > **Output**
 > Estimated Sales: `~15.5 units`
 
----
-
-## 🔮 Future Enhancements
-
-* Use polynomial regression or regularized models
-* Include more advertising variables (social, influencer, etc.)
-* Deploy Streamlit app using Streamlit Cloud or Render
 
 ---
 
@@ -125,6 +118,6 @@ Then click **"Predict"** to get the estimated sales.
 
 **Shubham Sawant**
 Product & Data Enthusiast | Python Developer
-[LinkedIn]((https://www.linkedin.com/in/shubham-sawant-b67412208/)) | [GitHub](https://github.com/Shubham-10000)
+[LinkedIn](https://www.linkedin.com/in/shubham-sawant-b67412208/) | [GitHub](https://github.com/Shubham-10000)
 
 ---
