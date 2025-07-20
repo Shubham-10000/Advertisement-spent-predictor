@@ -18,7 +18,7 @@ This project demonstrates a simple yet effective application of **Linear Regress
 ### 📁 Files Included
 
 * `Advertising.csv` – The dataset used for training and evaluation.
-* `ML_LR_session4.ipynb` – Jupyter Notebook used for data analysis, visualization, model training, and evaluation.
+* `ML_LR_model.ipynb` – Jupyter Notebook used for data analysis, visualization, model training, and evaluation.
 * `model1.pkl` – Saved Linear Regression model using `joblib`.
 * `app.py` – A simple **Streamlit web app** that takes user inputs for ad budgets and predicts expected sales.
 
