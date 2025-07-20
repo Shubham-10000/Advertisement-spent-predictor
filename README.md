@@ -125,6 +125,6 @@ Then click **"Predict"** to get the estimated sales.
 
 **Shubham Sawant**
 Product & Data Enthusiast | Python Developer
-[LinkedIn]([https://www.linkedin.com/in//](https://www.linkedin.com/in/shubham-sawant-b67412208/)) | [GitHub](https://github.com/Shubham-10000)
+[LinkedIn]((https://www.linkedin.com/in/shubham-sawant-b67412208/)) | [GitHub](https://github.com/Shubham-10000)
 
 ---
