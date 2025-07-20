@@ -25,7 +25,7 @@ It includes exploratory data analysis, model training, evaluation, and a **Strea
 📦 advertising-sales-prediction
 /
 ├── Advertising.csv               # Dataset
-├── ML\_LR\_session4.ipynb          # Jupyter Notebook for training & EDA
+├── ML_LR_S4_BackEnd.ipynb          # Jupyter Notebook for training & EDA
 ├── model1.pkl                    # Trained Linear Regression model
 ├── app.py                        # Streamlit app
 ├── requirements.txt              # Project dependencies
